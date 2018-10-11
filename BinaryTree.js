@@ -1,4 +1,4 @@
-exports.BinaryTree = class BinaryTree {
+BinaryTree = class BinaryTree {
     constructor(comparator = cmp) {
         this.data = {
           value: null,
